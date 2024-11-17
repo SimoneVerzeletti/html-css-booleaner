@@ -14,3 +14,13 @@ header {
 a {
     text-decoration: none;
 }
+
+figure {
+    display: inline;
+    margin-left: 0px;
+
+}
+
+ul {
+    padding-left: 20px;
+}

@@ -7,8 +7,12 @@ header {
     padding: 25px 15px ;
 }
 
+h1 {
+    margin-bottom: 0px;
+}
 .writer{
     color:rgb(66, 66, 66);
+    margin-top: 0px;
 }
 
 a {
@@ -23,4 +27,20 @@ figure {
 
 ul {
     padding-left: 20px;
+}
+
+table {
+    text-align: left;
+}
+
+thead {
+    width: 400px;
+}
+th {
+    background-color: #7FA6FB;
+    color: white;
+}
+
+td {
+    margin:auto
 }

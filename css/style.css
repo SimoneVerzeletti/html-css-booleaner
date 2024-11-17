@@ -1,0 +1,16 @@
+header {
+    background-color: #9CD6F4;
+}
+
+.logo {
+    width: 150px;
+    padding: 25px 15px ;
+}
+
+.writer{
+    color:rgb(66, 66, 66);
+}
+
+a {
+    text-decoration: none;
+}

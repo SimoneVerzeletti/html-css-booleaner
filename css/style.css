@@ -44,3 +44,11 @@ th {
 td {
     margin:auto
 }
+
+footer {
+    background-color: #313A6B;
+    color: white;
+    text-align: center;
+    font-size: 11px;
+    padding: 4px;
+}

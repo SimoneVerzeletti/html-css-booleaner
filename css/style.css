@@ -27,7 +27,10 @@ a {
 figure {
     display: inline;
     margin-left: 0px;
-
+}
+.nota-foto{
+    margin-top: 0px;
+    font-size: smaller;
 }
 
 ul {

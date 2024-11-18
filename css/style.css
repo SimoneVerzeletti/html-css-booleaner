@@ -28,14 +28,19 @@ figure {
 ul {
     padding-left: 20px;
 }
-
+/*--------------Inizio tabella------------*/
 table {
     text-align: left;
+}
+
+.columns {
+    width: 400px;
 }
 
 thead {
     width: 400px;
 }
+
 th {
     background-color: #7FA6FB;
     color: white;
@@ -45,6 +50,11 @@ td {
     margin:auto
 }
 
+.background {
+    background-color: #DFE5F2;
+}
+
+/* ---------------Fine Tabella-------------*/
 footer {
     background-color: #313A6B;
     color: white;

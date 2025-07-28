@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: 500px;
+}
+
+.banner img {
+    height: 55px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}

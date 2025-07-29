@@ -39,3 +39,23 @@ main {
 .descrizione-img {
     font-size: smaller;
 }
+
+ul {
+    padding: 15px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background: #20a9e5;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+
+}
+
+.dcell {
+    width: 25%;
+}

@@ -17,6 +17,12 @@ a {
 
 }
 
+.img-link {
+    display: flex;
+    width: 270px;
+    height: 200px;
+}
+
 .img1 {
 
     background-image: url('../img/monitor.jpg');
